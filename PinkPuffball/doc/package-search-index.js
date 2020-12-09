@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cs151Project.controllers"},{"l":"cs151Project.models"},{"l":"cs151Project.PinkPuffball"},{"l":"cs151Project.views"}];updateSearchResults();
